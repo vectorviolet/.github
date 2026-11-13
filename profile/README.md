@@ -37,7 +37,7 @@ Both are v1.0, with CI, tests, Windows/macOS/Linux builds, English and Turkish, 
 
 ## Game jam
 
-**[Sastermate](https://github.com/vectorviolet/sastermate)**: a climate-crisis city game made for GameUp (HP, ICPSD and UNDP) on the COP31 theme. Put out fires, earn Carbon Points and invest in green infrastructure to keep warming below +2.0°C. Unity, C#.
+**[Sastermate](https://github.com/vectorviolet/sastermate)**: a climate-crisis city game made with Team Climora for GameUp (HP, ICPSD and UNDP) on the COP31 theme. Put out fires, earn Carbon Points and invest in green infrastructure to keep warming below +2.0°C. I was the developer. Unity, C#. [Play on itch.io](https://umutcanekinci.itch.io/sastermate)
 
 ## Next up
 
