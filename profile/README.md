@@ -45,4 +45,4 @@ More Unity projects, one at a time. They will be added here as they ship.
 
 ## Links
 
-<a href="https://linkedin.com/in/umutcanekinci"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28"></a> &nbsp; [itch.io](https://umutcanekinci.itch.io/)
+<a href="https://linkedin.com/in/umutcanekinci"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28"></a> &nbsp; <a href="https://umutcanekinci.itch.io/"><img src="img/itchio.png" alt="itch.io" height="30"></a>
