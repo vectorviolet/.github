@@ -27,9 +27,19 @@
       <br><sub>Python, pygame-ce · <a href="https://umutcanekinci.itch.io/highrise">Play on itch.io</a></sub>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://umutcanekinci.itch.io/the-hunted">
+        <img src="img/the-hunted.png" alt="The Hunted" width="50%">
+      </a>
+      <br><img src="img/icon-the-hunted.png" alt="" width="28"> <b><a href="https://github.com/vectorviolet/the-hunted">The Hunted</a></b>
+      <br>Couch platformer chase: a vampire hunts a peasant, against the AI or a friend on one keyboard.
+      <br><sub>Python, pygame-ce · <a href="https://umutcanekinci.itch.io/the-hunted">Play in your browser on itch.io</a></sub>
+    </td>
+  </tr>
 </table>
 
-Both are v1.0, with CI, tests, Windows/macOS/Linux builds, English and Turkish, and a public devlog.
+Chokepoint and Highrise are v1.0, with CI, tests, Windows/macOS/Linux builds, English and Turkish, and a public devlog. The Hunted (v0.3.0) is my first pygame project, brought up to the same standard with new pixel art, a browser build and a Windows installer.
 
 ## Engine
 
